@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=WbMUHSL2xpY
 https://raw.githubusercontent.com/RodrigoMvs123/Ecommerce-Website-Tutorial-Create-a-B2B-App-with-Stripe-Postgres-REST-API-Backend/main/README.md
 
 
+https://github.com/RodrigoMvs123/Ecommerce-Website-Tutorial-Create-a-B2B-App-with-Stripe-Postgres-REST-API-Backend/blame/main/README.md
+
 https://github.com/kubowania/mobee-psql-data/blob/main/postgres.sql
 
 
